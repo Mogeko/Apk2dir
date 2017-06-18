@@ -9,5 +9,5 @@
 
 ![use](snipaste/snipaste_20170618_200843.png)
 ## Tips
-1. 如果 [apk2dir.bat](apk2dir.bat) 与 [apktool.jar](apktool.jar) 不在同一目录下，将 "%~dp0\apktool.jar" 替换为 [apktool.jar](apktool.jar) 所在目录的绝对路径。
+1. 如果 [apk2dir.bat](apk2dir.bat) 与 [apktool.jar](https://ibotpeaches.github.io/Apktool/) 不在同一目录下，将 "%~dp0\apktool.jar" 替换为 [apktool.jar](https://ibotpeaches.github.io/Apktool/) 所在目录的绝对路径。
 
